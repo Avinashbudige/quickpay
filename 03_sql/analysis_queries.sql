@@ -31,6 +31,7 @@ FROM cleaned_transactions
 GROUP BY merchant_id
 HAVING chargeback_ratio > 1;
 
+
 --Find regions with average risk score above 50 and more than 20 transactions
 SELECT region, AVG(risk_score) AS average_risk_score, COUNT(*) AS transaction_count
 FROM cleaned_transactions

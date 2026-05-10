@@ -22,6 +22,7 @@ FROM cleaned_transactions
 WHERE clean_status = 'captured'
 GROUP BY clean_merchant_name;
 ```
+
 ### Result Summary
 | Merchant Name  | Total Captured GMV |
 |----------------|---------------------|
