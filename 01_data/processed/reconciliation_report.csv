@@ -1,0 +1,7 @@
+description,transaction_id,ledger_value,gateway_value
+Missing in Gateway,R004,2100.0,
+Missing in Gateway,R010,2500.0,
+Missing in Ledger,R011,,1800.0
+Amount Mismatch,R002,850.0,900.0
+Amount Mismatch,R008,640.0,600.0
+Status Mismatch,R005,success,failed
