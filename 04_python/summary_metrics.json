@@ -1,0 +1,27 @@
+{
+    "total_ledger_transactions": 10,
+    "total_gateway_transactions": 9,
+    "duplicate_ledger_entries": 0,
+    "duplicate_gateway_entries": 0,
+    "null_values_ledger": {
+        "transaction_id": 0,
+        "transaction_date": 0,
+        "merchant_id": 0,
+        "amount_usd": 0,
+        "status": 0,
+        "payment_method": 0
+    },
+    "null_values_gateway": {
+        "transaction_id": 0,
+        "transaction_date": 0,
+        "merchant_id": 0,
+        "amount_usd": 0,
+        "status": 0,
+        "payment_method": 0
+    },
+    "records_missing_in_gateway": 2,
+    "records_missing_in_ledger": 1,
+    "amount_mismatches": 2,
+    "status_mismatches": 1,
+    "total_discrepancies": 6
+}

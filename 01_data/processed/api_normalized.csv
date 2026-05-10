@@ -1,0 +1,4 @@
+itemid,name,price,quantity,transactionid,timestamp,totalamount,currency,customerid,name
+ITEM001,Laptop,1200.0,1,TRN001,2023-10-26 10:00:00+00:00,1250.0,USD,CUST001,Alice Smith
+ITEM002,Mouse,25.0,2,TRN001,2023-10-26 10:00:00+00:00,1250.0,USD,CUST001,Alice Smith
+ITEM003,Keyboard,75.0,1,TRN002,2023-10-26 11:30:00+00:00,75.0,USD,CUST002,Bob Johnson
