@@ -1,0 +1,7 @@
+clean_merchant_name,COUNTA of transaction_id,SUM of High Risk Flag,SUM of High Value Flag
+Alpha Mart,11,11,7
+Beta Stores,11,11,6
+City Pharma,2,2,2
+Delta Travels,4,4,4
+Eco Home,2,2,2
+Grand Total,30,30,21
